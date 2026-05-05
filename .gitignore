@@ -1,0 +1,4 @@
+__pycache__/
+*.pyc
+.env
+meshy_ready_*.png
