@@ -44,3 +44,5 @@ Contributions, issues, and feature requests are welcome! Feel free to check the 
 
 📜 License
 This project is open-source and available under the MIT License.
+
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-Support%20my%20work-FF813F?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white)](https://buymeacoffee.com/mycodes21)
